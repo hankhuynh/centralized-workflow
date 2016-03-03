@@ -2,4 +2,4 @@
 ##How it works
 ##Merge Conflicts
 ##Clone Git
-##This is updated by hng
+##This is updated by HankHuynh
