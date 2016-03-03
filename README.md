@@ -3,3 +3,4 @@
 ##Merge Conflicts
 ##Clone Git
 ##This is updated by HankHuynh
+##Bug fixed by Hng
